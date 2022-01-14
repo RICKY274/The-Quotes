@@ -6,8 +6,8 @@ The overall architecture of the system consist of a  server that has an HTTP API
 
 The server consist of a layered architecture that separates the HTTP code from the domain code and the database access code. 
 
-##  MVC pattern
+## MVC pattern
 ![](mvc-diag-alt.png)
 
-## Connect the Client and the Server
+## Client and the Server
 ![](qutequotes-architecture.png)
